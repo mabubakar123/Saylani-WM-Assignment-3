@@ -1,0 +1,49 @@
+.row1 {
+    display: flex;
+    background-color: #316DC3;
+}
+
+.smallDiv1,.smallDiv2{
+    flex: 3;
+    /* border: 1px solid wheat; */
+}
+
+.bigDiv {
+    flex: 6;
+    /* margin-top: 10px; */
+    font-size: 15px;
+    align-self: center;
+    /* border: 1px solid wheat; */
+}
+
+i {
+    color: white;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #595959;
+    text-decoration: none;
+  }
+
+.GoToCenter1{
+    justify-content: center;
+}
+
+.GoToCenter2{
+    justify-content: flex-start;
+}
+
+.marginThem{
+    margin-right: 5px;
+}
+
+.bgWhite{
+    background-color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+}
