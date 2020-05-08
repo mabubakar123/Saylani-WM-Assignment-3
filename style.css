@@ -58,7 +58,7 @@ a:hover, a:focus {
 
 img.saylaniLogo{
     width: 200px;
-    margin-left: 10px;
+    margin-left: 35px;
     margin-right: 280px;
 }
 
@@ -72,12 +72,13 @@ img.saylaniLogo{
     font-weight: bold;
     font-size: 12px;
 }
-
-/* .fontfam:hover{
+/* 
+.fontfam:hover{
     background-color: #316DC3;
     padding: 10PX;
+    color: white;
     border-radius: 100px;
-} */
+}  */
 
 .row2 {
     width: 150%;
